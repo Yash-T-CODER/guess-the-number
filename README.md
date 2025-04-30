@@ -1,2 +1,2 @@
-# guess-the-number
-.
+This repository features a collection of Python mini projects aimed at building real-world applications using core programming concepts. Projects like the voice-enabled number guessing game highlight practical skills such as user interaction, input validation, error handling, and the use of libraries like pyttsx3 for text-to-speech functionality. Each project is developed with clean, modular, and beginner-friendly code, reflecting a hands-on approach to learning and application development. These projects demonstrate my proficiency in Python fundamentals, logical thinking, and the ability to transform simple ideas into interactive programs. This collection serves as both a learning tool and a showcase of my ability to design practical and engaging software solutions. More projects will be added, each emphasizing real-world applicability, clean coding standards, and sound software design principles.
+
